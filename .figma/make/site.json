@@ -1,0 +1,10 @@
+{
+  "description": "A workspace for continuing ongoing projects, helping users pick up where they left off and keep their work moving forward.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
