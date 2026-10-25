@@ -1,7 +1,8 @@
 {
-  "description": "A workspace for continuing ongoing projects, helping users pick up where they left off and keep their work moving forward.",
+  "title": "Cordonato Portfolio",
+  "description": "Portfolio of Jhudiel F. Cordonato: Junior QA tester and software developer, with projects in testing, hardware, and data.",
   "robots": {
-    "index": false
+    "index": true
   },
   "accessibility": {
     "addBypassLinks": false,
